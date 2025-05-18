@@ -18,16 +18,6 @@
 
 ---
 
-## 🔬 Research Experience
-
-**Research Assistant**, UConn BAPM Program, Hartford, CT  
-*May 2016 – Dec 2016*  
-- Designed a gamified system to assess Big Five personality traits  
-- Found significant engagement improvements vs traditional surveys (p < 0.05)  
-- Skills: Python, Data Analysis, Web Hosting, Research Collaboration
-
----
-
 ## 🗞 Publications & Presentations
 
 - *Gamifying Data Capture - A Pilot Study*, WITS, Dublin, Ireland (2016)  
