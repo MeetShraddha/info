@@ -7,7 +7,7 @@
 
 ## 👩‍🎓 Education
 
-**University of Illinois Urbana-Champaign**  
+**University of Illinois Urbana-Champaign**
 *MBA - Current Student*
 
 **University of Connecticut**
