@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍🎓 Education
+## Education
 
 **University of Illinois Urbana-Champaign**
 *MBA - Current Student* [2025]
