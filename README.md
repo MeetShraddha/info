@@ -1,35 +1,29 @@
-<h1 style="text-align: center;">Shraddha Sharma</h1>
+<h1 align="center">Shraddha Sharma</h1>
 
 <p align="center">
-  <img src="profile.jpg" alt="Shraddha Sharma" width="150" style="border-radius: 50%;">
+  <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  📍 Spring, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
+  📍 Houston, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
   <br>
   <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
-  <a href="https://github.com/ShraddhaSharma18">GitHub</a> • 
-  <a href="https://scholar.google.com/citations?user=7UGNvYgAAAAJ">Google Scholar</a>
+  <a href="https://github.com/MeetShraddha">GitHub</a> • 
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ">Google Scholar</a>
 </p>
-
-
-# Shraddha Sharma
-
-📍 Houston, TX | 📞 480-643-0392 | 📧 shraddha.uconn@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shraddha18) • [GitHub](https://github.com/MeetShraddha) • [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ)
 
 ---
 
-## Education
+## 🎓 Education
 
-**University of Illinois Urbana-Champaign**
-*MBA - Current Student* 
+**University of Illinois Urbana-Champaign**  
+*MBA – Current Student*
 
-**University of Connecticut**
-*MS in Business Analytics & Project Management* 
+**University of Connecticut**  
+*MS in Business Analytics & Project Management*
 
-**Rajiv Gandhi Proudyogiki Vishwavidyalaya**
-*BE in Information Technology* 
+**Rajiv Gandhi Proudyogiki Vishwavidyalaya**  
+*BE in Information Technology*
 
 ---
 
@@ -43,21 +37,21 @@
 
 ## 💼 Work Experience
 
-### **Entergy Services LLC**, Houston, TX  
-*Sr Staff Data Scientist – AI Department (Nov 2019 – Present)*  
+### Entergy Services LLC – *Sr Staff Data Scientist, AI Department*  
+*Houston, TX | Nov 2019 – Present*  
 - Developed LLM-RAG chatbot evaluation models  
 - Built models for meter tampering & energy theft detection, bill prediction, transformer failure prediction  
 - Led ML research & improved AI platform infrastructure
 
-### **Synechron Inc.**, Piscataway, NJ  
-*Sr Data Scientist – AI Lab (Jan 2017 – Oct 2019)*  
+### Synechron Inc. – *Sr Data Scientist, AI Lab*  
+*Piscataway, NJ | Jan 2017 – Oct 2019*  
 - Analyzed RAG model performance with acronym-based queries  
 - Built dashboards for recall, precision, and relevancy  
 - Created ML/NLP solutions including resume parser & timeseries tools  
 - Developed langchain AI agents for feedback-aware bots
 
-### **Accenture Services**, Bangalore, India  
-*Software Engineering Associate (Mar 2013 – Dec 2015)*  
+### Accenture Services – *Software Engineering Associate*  
+*Bangalore, India | Mar 2013 – Dec 2015*  
 - Developed sentiment analysis tools & optimized SQL performance  
 - Integrated Hadoop with BI platforms reducing costs by 40%
 
@@ -90,9 +84,8 @@
 - Text Retrieval, UIUC (2018)  
 - Scala Programming, EPFL (2018)
 
---- 
+---
 
 ## 📚 Academic Service
 
-- Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas, October 12-15, 2025
-
+- Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas (Oct 12–15, 2025)
