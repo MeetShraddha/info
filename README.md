@@ -76,3 +76,8 @@
 - Scala Programming, EPFL (2018)
 
 --- 
+
+## 📚 Academic Service
+
+- Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas, October 12-15, 2025
+
