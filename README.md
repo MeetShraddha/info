@@ -12,27 +12,18 @@
 
 ## 🎓 Education
 
-<table style="border: none;">
-<tr>
-<td style="vertical-align: top; border: none;">
-
-**University of Illinois Urbana-Champaign**  
-*MBA – Current Student*
-
-**University of Connecticut**  
-*MS in Business Analytics & Project Management*
-
-**Rajiv Gandhi Proudyogiki Vishwavidyalaya**  
-*BE in Information Technology*
-
-</td>
-<td style="text-align: right; border: none;">
-  <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
-</td>
-</tr>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; border: none;">
+      <div><strong>University of Illinois Urbana-Champaign</strong><br><em>MBA – Current Student</em></div><br>
+      <div><strong>University of Connecticut</strong><br><em>MS in Business Analytics & Project Management</em></div><br>
+      <div><strong>Rajiv Gandhi Proudyogiki Vishwavidyalaya</strong><br><em>BE in Information Technology</em></div>
+    </td>
+    <td style="text-align: right; border: none;">
+      <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
+    </td>
+  </tr>
 </table>
-
-
 
 ---
 
