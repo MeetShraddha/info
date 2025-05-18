@@ -27,7 +27,7 @@
 
 </td>
 <td align="right">
-  <img src="profile.jpg" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
+  <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
 </td>
 </tr>
 </table>
