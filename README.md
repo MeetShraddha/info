@@ -12,9 +12,9 @@
 
 ## 🎓 Education
 
-<table>
+<table style="border: none;">
 <tr>
-<td>
+<td style="vertical-align: top; border: none;">
 
 **University of Illinois Urbana-Champaign**  
 *MBA – Current Student*
@@ -26,11 +26,12 @@
 *BE in Information Technology*
 
 </td>
-<td align="right">
+<td style="text-align: right; border: none;">
   <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
 </td>
 </tr>
 </table>
+
 
 
 ---
