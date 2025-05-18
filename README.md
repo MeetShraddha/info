@@ -8,13 +8,13 @@
 ## Education
 
 **University of Illinois Urbana-Champaign**
-*MBA - Current Student* [2025]
+*MBA - Current Student* 
 
 **University of Connecticut**
-*MS in Business Analytics & Project Management* [2017]
+*MS in Business Analytics & Project Management* 
 
 **Rajiv Gandhi Proudyogiki Vishwavidyalaya**
-*BE in Information Technology* [2012]
+*BE in Information Technology* 
 
 ---
 
