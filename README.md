@@ -1,13 +1,12 @@
 <h1 align="center">Shraddha Sharma</h1>
 
----
-
-## 🗞 Publications & Presentations
-
-- *Gamifying Data Capture - A Pilot Study*, WITS, Dublin, Ireland (2016)  
-- *Bill Projection Using ML*, Utility Analytics Summit, San Diego, CA (2022)  
-- *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain (2024)
-
+<p align="center">
+  📍 Houston, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
+  <br>
+  <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
+  <a href="https://github.com/MeetShraddha">GitHub</a> • 
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ">Google Scholar</a>
+</p>
 ---
 
 ## 🎓 Education
@@ -24,7 +23,18 @@
     </td>
   </tr>
 </table>
+---
 
+## 🗞 Publications & Presentations
+
+- *Gamifying Data Capture - A Pilot Study*, WITS, Dublin, Ireland (2016)  
+- *Bill Projection Using ML*, Utility Analytics Summit, San Diego, CA (2022)  
+- *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain (2024)
+---
+
+## 📚 Academic Service
+
+- Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas (Oct 12–15, 2025)
 ---
 
 ## 💼 Work Experience
@@ -46,7 +56,6 @@
 *Bangalore, India | Mar 2013 – Dec 2015*  
 - Developed sentiment analysis tools & optimized SQL performance  
 - Integrated Hadoop with BI platforms reducing costs by 40%
-
 ---
 
 ## 🏅 Awards & Memberships
@@ -54,7 +63,6 @@
 - **Impact Award**, Entergy (2023)  
 - **Star Steller Award**, Accenture (2014)  
 - Member, Utility Analytics Institute – Customer Analytics Community
-
 ---
 
 ## 💡 Skills
@@ -64,7 +72,6 @@
 **Languages:** Python, R, Scala, SAS  
 **Databases:** SQL Server, MySQL, DynamoDB, MongoDB, Neo4j  
 **Other:** A/B Testing, Experiment Design, Data Visualization
-
 ---
 
 ## 📜 Certifications
@@ -75,19 +82,4 @@
 - Psychological Research Specialization, APA (2023)  
 - Text Retrieval, UIUC (2018)  
 - Scala Programming, EPFL (2018)
-
 ---
-
-## 📚 Academic Service
-
-- Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas (Oct 12–15, 2025)
-
----
-
-<p align="center">
-  📍 Houston, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
-  <br>
-  <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
-  <a href="https://github.com/MeetShraddha">GitHub</a> • 
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ">Google Scholar</a>
-</p>
