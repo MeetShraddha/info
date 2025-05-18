@@ -1,10 +1,6 @@
 <h1 align="center">Shraddha Sharma</h1>
 
 <p align="center">
-  <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 50%;">
-</p>
-
-<p align="center">
   📍 Houston, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
   <br>
   <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
@@ -16,6 +12,10 @@
 
 ## 🎓 Education
 
+<table>
+<tr>
+<td>
+
 **University of Illinois Urbana-Champaign**  
 *MBA – Current Student*
 
@@ -24,6 +24,14 @@
 
 **Rajiv Gandhi Proudyogiki Vishwavidyalaya**  
 *BE in Information Technology*
+
+</td>
+<td align="right">
+  <img src="profile.jpg" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
+</td>
+</tr>
+</table>
+
 
 ---
 
