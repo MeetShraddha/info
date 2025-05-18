@@ -7,10 +7,13 @@
 
 ## 👩‍🎓 Education
 
-**University of Connecticut**, Hartford, CT, USA  
+**University of Illinois Urbana-Champaign**  
+*MBA - Current Student*
+
+**University of Connecticut**
 *MS in Business Analytics & Project Management*
 
-**Rajiv Gandhi Proudyogiki Vishwavidyalaya**, Bhopal,MP, India  
+**Rajiv Gandhi Proudyogiki Vishwavidyalaya**
 *BE in Information Technology*
 
 ---
