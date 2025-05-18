@@ -82,6 +82,4 @@
 - Text Retrieval, UIUC (2018)  
 - Scala Programming, EPFL (2018)
 
----
-
-> Built with ❤️ by Shraddha Sharma  
+--- 
