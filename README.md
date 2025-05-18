@@ -20,7 +20,7 @@
       <div><strong>Rajiv Gandhi Proudyogiki Vishwavidyalaya</strong><br><em>BE in Information Technology</em></div>
     </td>
     <td style="text-align: right; vertical-align: top; border: none; white-space: nowrap;">
-      <img src="img.png" alt="Shraddha Sharma" width="150" style="border-radius: 10px;">
+      <img src="img.png" alt="Shraddha Sharma" width="100" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
