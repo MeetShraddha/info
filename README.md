@@ -1,3 +1,18 @@
+<h1 style="text-align: center;">Shraddha Sharma</h1>
+
+<p align="center">
+  <img src="profile.jpg" alt="Shraddha Sharma" width="150" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  📍 Spring, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
+  <br>
+  <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
+  <a href="https://github.com/ShraddhaSharma18">GitHub</a> • 
+  <a href="https://scholar.google.com/citations?user=7UGNvYgAAAAJ">Google Scholar</a>
+</p>
+
+
 # Shraddha Sharma
 
 📍 Houston, TX | 📞 480-643-0392 | 📧 shraddha.uconn@gmail.com  
