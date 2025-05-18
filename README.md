@@ -10,6 +10,14 @@
 
 ---
 
+## 🗞 Publications & Presentations
+
+- *Gamifying Data Capture - A Pilot Study*, WITS, Dublin, Ireland (2016)  
+- *Bill Projection Using ML*, Utility Analytics Summit, San Diego, CA (2022)  
+- *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain (2024)
+
+---
+
 ## 🎓 Education
 
 <table style="border: none; width: 100%;">
@@ -24,14 +32,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🗞 Publications & Presentations
-
-- *Gamifying Data Capture - A Pilot Study*, WITS, Dublin, Ireland (2016)  
-- *Bill Projection Using ML*, Utility Analytics Summit, San Diego, CA (2022)  
-- *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain (2024)
 
 ---
 
