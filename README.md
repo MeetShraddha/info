@@ -1,13 +1,5 @@
 <h1 align="center">Shraddha Sharma</h1>
 
-<p align="center">
-  📍 Houston, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
-  <br>
-  <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
-  <a href="https://github.com/MeetShraddha">GitHub</a> • 
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ">Google Scholar</a>
-</p>
-
 ---
 
 ## 🗞 Publications & Presentations
@@ -89,3 +81,13 @@
 ## 📚 Academic Service
 
 - Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas (Oct 12–15, 2025)
+
+---
+
+<p align="center">
+  📍 Houston, TX • 📞 480-643-0392 • 📧 shraddha.uconn@gmail.com  
+  <br>
+  <a href="https://www.linkedin.com/in/shraddha18">LinkedIn</a> • 
+  <a href="https://github.com/MeetShraddha">GitHub</a> • 
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ">Google Scholar</a>
+</p>
