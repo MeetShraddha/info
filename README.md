@@ -69,16 +69,6 @@
 - **Impact Award**, Entergy (2023)  
 - **Star Steller Award**, Accenture (2014)  
 - Member, Utility Analytics Institute – Customer Analytics Community
-  
----
-
-## 💡 Skills
-
-**Modeling:** Regression, Classification, Clustering, XGBoost, SVM, CNN, LSTM  
-**NLP:** Information Retrieval, Text Mining, QA Systems  
-**Languages:** Python, R, Scala, SAS  
-**Databases:** SQL Server, MySQL, DynamoDB, MongoDB, Neo4j  
-**Other:** A/B Testing, Experiment Design, Data Visualization
 
 ---
 
