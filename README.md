@@ -22,7 +22,7 @@
 
 - *Gamifying Data Capture - A Pilot Study*, WITS, Dublin, Ireland (2016)  
 - *Bill Projection Using ML*, Utility Analytics Summit, San Diego, CA (2022)  
-- *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain (2024, upcoming)
+- *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain (2024)
 
 ---
 
@@ -31,7 +31,7 @@
 ### **Entergy Services LLC**, Houston, TX  
 *Sr Staff Data Scientist – AI Department (Nov 2019 – Present)*  
 - Developed LLM-RAG chatbot evaluation models  
-- Built models for theft detection, bill prediction, transformer failure  
+- Built models for meter tampering & energy theft detection, bill prediction, transformer failure prediction  
 - Led ML research & improved AI platform infrastructure
 
 ### **Synechron Inc.**, Piscataway, NJ  
