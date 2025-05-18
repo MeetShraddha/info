@@ -1,6 +1,6 @@
 # Shraddha Sharma
 
-📍 Houston, TX | 📧 shraddha.uconn@gmail.com  
+📍 Houston, TX | 📞 480-643-0392 | 📧 shraddha.uconn@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shraddha18) • [GitHub](https://github.com/MeetShraddha) • [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7UGNvYgAAAAJ)
 
 ---
