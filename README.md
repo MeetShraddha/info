@@ -29,7 +29,7 @@
 ---
 
 ## 🗞 Publications & Presentations
-  
+
 - *Aligning Advanced Distribution Analytics with Regulatory Frameworks, IEEE PES, Washigton DC, USA, 2026
 - *Energy-Positive Buildings in Smart Cities*, IET Smart Cities Symposium, Bahrain 2024
 - *Bill Projection Using ML*, Utility Analytics Summit, San Diego, CA 2022
