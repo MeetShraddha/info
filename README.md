@@ -40,6 +40,7 @@
 
 ## 📚 Academic Service
 
+- Reviewer for **2025 IEEE PES Conference**, PESGM2026
 - Reviewer for **2025 IEEE International Communication Energy Conference**, Houston, Texas (Oct 12–15, 2025)
   
 ---
